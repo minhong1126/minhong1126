@@ -8,11 +8,20 @@
 
 # Abilities
 ## FrontEnd
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JS&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+
+</br>
+
+## Backend
 
 ## Etc
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+
+</br>
 
 ## Others
-
+<img href="https://minjh1126.tistory.com/" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 
 
 
