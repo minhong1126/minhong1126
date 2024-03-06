@@ -21,8 +21,9 @@
 </br>
 
 ## Others
-<img href="https://minjh1126.tistory.com/" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-
+<img href= src="https://img.shields.io/badge//>
+<a href="https://minjh1126.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+![minhong1126's github stats](https://github-readme-stats.vercel.app/api?username=minhong1126&show_icons=true)
 
 
 <!--
