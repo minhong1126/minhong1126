@@ -1,9 +1,9 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=98f5ff&text=Welcome!&fontSize=40)
-</div>
 
 # About me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhong1126) 
+![minhong1126's github stats](https://github-readme-stats.vercel.app/api?username=minhong1126&show_icons=true) <br/>
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingh159357) 
 
 # Abilities
 ## FrontEnd
@@ -21,9 +21,8 @@
 
 ## Others
 <a href="https://minjh1126.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-![minhong1126's github stats](https://github-readme-stats.vercel.app/api?username=minhong1126&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingh159357)](https://solved.ac/mingh159357/)  
 
+</div>
 
 
 <!--
