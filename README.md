@@ -1,11 +1,9 @@
 <div align="center">
 
 # About me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhong1126) 
-![minhong1126's github stats](https://github-readme-stats.vercel.app/api?username=minhong1126&show_icons=true) <br/>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingh159357) 
+![minhong1126's github stats](https://github-readme-stats.vercel.app/api?username=minhong1126&show_icons=true) 
 
-# Abilities
+# Tech Stack
 ## FrontEnd
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JS&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
