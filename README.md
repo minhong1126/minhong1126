@@ -4,21 +4,19 @@
 ![minhong1126's github stats](https://github-readme-stats.vercel.app/api?username=minhong1126&show_icons=true) 
 
 # Tech Stack
-## FrontEnd
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JS&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 </br>
 
-## Backend
-
-## Etc
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
 </br>
 
-## Others
-<a href="https://minjh1126.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+# Contact
+  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinhong-min-8b749732b/)
+  ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjhong159357@gmail.com)
+
 
 </div>
 
