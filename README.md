@@ -13,9 +13,6 @@
 
 </br>
 
-# Contact
-  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinhong-min-8b749732b/)
-  ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjhong159357@gmail.com)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhong1126&layout=compact&theme=nord&hide_border=true" /> 
